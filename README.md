@@ -6,7 +6,7 @@ A simple Python application for recording your daily mood and turning it into a 
   <img src="images/mood_calendar.png" alt="Mood Tracker Calendar" width="700">
 </p>
 
-![Mood Tracker Calendar](images/mood_calendar.png)
+![Mood Tracker Calendar](mood_calendar.png)
 
 ## Features
 
