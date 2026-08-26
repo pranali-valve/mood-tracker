@@ -38,3 +38,19 @@ Choose **1** to record a mood, then choose **2** to create and view the calendar
 ## Built With
 
 Python and Matplotlib.
+
+---
+
+# 👩‍💻 Author
+
+**Pranali Valve**
+
+Machine Learning Journey 🚀
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving the repository a ⭐ on GitHub.
+
+More Machine Learning projects coming soon!
